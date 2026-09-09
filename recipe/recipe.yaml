@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.2.0"
+  version: "0.2.1"
   python_min: "3.12"
 
 package:
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/t/tclean/tclean-${{ version }}.tar.gz
-  sha256: d9f43e1dd5738713b1e18136a868918f5dfe6fff7ab57c5e1c4625188d0c8a1c
+  sha256: 96f92219ca08c9a20d58ebd703a82191ffabbb8292db7733b7050a8de02c425d
 
 build:
   number: 0
